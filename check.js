@@ -1,8 +1,8 @@
 class HelloTest{
     constructor(name) {
         this.name = name;
-         console.log("hello" + this.name);
+         console.log("Fuck you" + this.name);
         } 
 }
 
-var JamePerson = new HelloTest('Jame')
+var JamePerson = new HelloTest('Michail')
